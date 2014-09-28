@@ -3,6 +3,7 @@ css_dir = "assets/stylesheets"
 sass_dir = "assets/scss"
 images_dir = "assets/images"
 javascripts_dir = "assets/javascripts"
+url: http://pattwu.github.io/leapdays/
 
 output_style = :compressed
 
